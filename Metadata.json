@@ -1,0 +1,20 @@
+{
+    "Author": "Charles Joy [MSFT]",
+    "ContentSize": 14459,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/provision-azure-environment-resources-from-gallery/master/New-AzureEnvironmentResourcesFromGallery.ps1",
+    "DownloadCount": 3060,
+    "Id": "Provision-Azure-Environment-236596a8",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 380,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-5-20T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook creates a number of Azure Environment Resources (in sequence): Azure Affinity Group, Azure Cloud Service, Azure Storage Account, and Azure VM all from an existing VM Image (specified as a Variable in the Assets).",
+    "Title": "Provision Azure Environment Resources from Gallery",
+    "UpdatedDate": "2014-10-18T00:00:00",
+    "Url": "https://github.com/azureautomation/provision-azure-environment-resources-from-gallery",
+    "UserTags": "Microsoft Azure, Building Clouds, Provisioning"
+}
